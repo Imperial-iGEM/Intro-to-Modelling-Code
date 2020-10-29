@@ -2,6 +2,9 @@
 
 ![academic_bot](./static/academic_bot2.gif)
 
+<script
+                src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script><lottie-player src="https://assets2.lottiefiles.com/private_files/lf30_9lp5qlnf.json" background="transparent" speed="1" style="width: 300px; height: 300px;" loop controls autoplay></lottie-player>
+
 As part of Imperial College London's IGEM 2020 human practises, we developed an **Introduction to Mathematical Modelling in Synthetic Biology** package. Included in this package are coding challenges. This repository contains the solution code for those challenges (Cch_ files) and the [full introduction package](./T--Imperial_College--introtomodelling.pdf)
 
 ### Get started
