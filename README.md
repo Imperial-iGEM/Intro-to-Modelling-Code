@@ -1,5 +1,4 @@
-# Intro to Modelling
-### For iGEM Teams
+# Intro to Modelling (for iGEM Teams)
 
 As part of Imperial College London's IGEM 2020 human practises, we developed an **Introduction to Mathematical Modelling in Synthetic Biology** package. Included in this package are coding challenges. This repository contains the solution code for those challenges and the [full introduction package](./T--Imperial_College--introtomodelling.pdf)
 
