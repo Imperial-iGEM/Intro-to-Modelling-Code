@@ -9,6 +9,6 @@ As part of Imperial College London's IGEM 2020 human practises, we developed an 
 We are currently working on expanding our video tutorials - check them out [here](https://www.youtube.com/playlist?list=PLTzF6JV_DoE2Nuhbmt52nTYaCz-roHNUl)
 
 For more information about the package, visit our wiki and head to [Education](https://2020.igem.org/Team:Imperial_College/Education).
-Have a browse through the rest of [the wiki](https://2020.igem.org/Team:Imperial_College) and don't forget to check out our project [SOAP Lab](soaplab.io) and look through (our docs)[https://imperial-igem.github.io/DJANGO-Assembly-Methods/].
+Have a browse through the rest of [the wiki](https://2020.igem.org/Team:Imperial_College) and don't forget to check out our project [SOAP Lab](soaplab.io) and look through [our docs](https://imperial-igem.github.io/DJANGO-Assembly-Methods/).
 
 ![logo](./static/soaplab_logo.gif)
